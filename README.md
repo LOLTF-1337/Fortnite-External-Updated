@@ -2,6 +2,7 @@ Fortnite Cheat Update
 
 [ + ] Updated to Latest Patch 26.02.2023                                                                                                                                 
 [ + ] Removed visdistance on actorcounting                                                                                                                               
+[ + ] Added new Driver                                                                                                                                                   
 [ + ] Added new GetBoneWithRoation                                                                                                                              
 [ + ] Added Aim-While-Jumping                                                                                                                             
 [ + ] Added CarFly                                                                                                                                                     

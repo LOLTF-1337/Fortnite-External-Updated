@@ -6,7 +6,7 @@ Fortnite Cheat Update
 [ + ] Added new GetBoneWithRoation                                                                                                                              
 [ + ] Added Aim-While-Jumping                                                                                                                             
 [ + ] Added CarFly                                                                                                                                                     
-[ + ] Added InstaRes ( not tested )                                                                                                                                       [ + ] AirStuck                                                                                                                                                           
+[ + ] Added InstaRes ( not tested )                                                                                                                                        [ + ] AirStuck                                                                                                                                                           
 [ + ] Added Dynamic Esp ( Not by me )                                                                                                                                     
 [ + ] Added Skeleton Esp                                                                                                                                                 
 [ + ] I played on be 4-5h and idk abt eac but u should be able to last long enough.
